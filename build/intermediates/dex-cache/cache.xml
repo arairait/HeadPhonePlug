@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\0000100010.JP\AndroidStudioProjects\HeadPhonePlug\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\0000100010.JP\AndroidStudioProjects\HeadPhonePlug\app\build\intermediates\pre-dexed\release\classes-64d2e28be363908ed1b318816132c44aaec26e49.jar" />
+    </item>
+    <item
+        jar="C:\Users\0000100010.JP\AndroidStudioProjects\HeadPhonePlug\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\0000100010.JP\AndroidStudioProjects\HeadPhonePlug\app\build\intermediates\pre-dexed\release\classes-0c0c5a5449fc10206e4cd9955483b542c50d1b4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\0000100010.JP\AndroidStudioProjects\HeadPhonePlug\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\0000100010.JP\AndroidStudioProjects\HeadPhonePlug\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-292260d45aee824bf235af81b350fc444eab0a4b.jar" />
+    </item>
+    <item
+        jar="C:\android\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\0000100010.JP\AndroidStudioProjects\HeadPhonePlug\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-6ad57c5ce7544d6680a8ce488f190e8f784574c7.jar" />
+    </item>
+
+</items>
